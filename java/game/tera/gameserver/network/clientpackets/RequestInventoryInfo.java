@@ -29,12 +29,15 @@ public class RequestInventoryInfo extends ClientPacket
 	public void readImpl()
 	{
 		player = owner.getOwner();
+                //System.out.println("Client Packet: "+owner.getOwner());
 	}
 
 	@Override
 	public void runImpl()
 	{
-		if(player != null)
+		if(player != null) {
+                        //System.out.println("S_Inven: "+S_Inven.getInstance(player));
 			player.sendPacket(S_Inven.getInstance(player), true);
+                }
 	}
 }

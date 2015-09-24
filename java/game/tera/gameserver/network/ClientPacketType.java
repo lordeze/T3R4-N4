@@ -37,9 +37,9 @@ public enum ClientPacketType
 	/** end climb */
 	C_END_CLIMBING(0x8BBF,new PlayerClimbEnd()),//1200BF8B A5A88E47 51818EC7 80039AC4 0020
 	/** пакет с оправкой движения, версия */
-    C_NOTIFY_LOCATION_IN_ACTION(0xBB0D, new PlayerMoveOnSkill()),
+        C_NOTIFY_LOCATION_IN_ACTION(0xBB0D, new PlayerMoveOnSkill()),
 	/** сообщение от игрока, версия 172 */
-    C_CHAT(0x70F8, new PlayerSay()),
+        C_CHAT(0x70F8, new PlayerSay()),
 	/** приватный месседж от игрока, версия 172 */
 	PLAYER_PRIVATE_SAY(0xCADA, new PrivateSay()),
 	/** обновление титула игрока */
@@ -51,7 +51,8 @@ public enum ClientPacketType
 	REQUEST_STATE(0xAB5E, new RequestState()),
 
 	/** запрос содержания инвенторя, версия 172 */
-    C_SHOW_ITEM_TOOLTIP_EX(0x7E27, new RequestInventoryInfo()),
+        C_SHOW_ITEM_TOOLTIP_EX(0x7E27, new RequestInventoryInfo()),
+        REQUEST_SHOW_INVEN(0x9941, new RequestInventoryInfo()),
 	/** запрос на одевание придмета, версия 172 */
 	REQUEST_DRESSING_ITEM(0xC7B5, new RequestDressingItem()),
 	/** запрос на снятие предмета, версия 172 */
@@ -69,7 +70,7 @@ public enum ClientPacketType
 	/** пакет, запрашивающий информацию о итеме, версия 172 */
 	REQUEST_INVENTORY_ITEM_INFO(0xBC87, new RequestInventoryInfoItem()), // 28 00 F4 C4 1E 00 13 00 00 00 C4 71 00 00 00 00
 	/** запрос на поднятие итема, версия 172 */
-    C_TRY_LOOT_DROPITEM(0xC6A2, new RequestPickUpItem()),
+        C_TRY_LOOT_DROPITEM(0xC6A2, new RequestPickUpItem()),
 	/** заппрос на использование итема, версия 172 */
 	REQUEST_USE_ITEM(0xE307, new RequestUseItem()), // 3A 00 F6 B0 AB 76 00 00 00 00 00 00 47 1F 00 00
 	/** запрос на использование свитка */
@@ -108,7 +109,7 @@ public enum ClientPacketType
 	REQUEST_GUILD_UPDATE_NOTE(0x4FE9, new RequestGuildUpdateNote()),
 
 	/** запрос на юз мили скила, версия 172 */
-    C_START_SKILL(0x9344, new RequestUseShortSkill()),
+        C_START_SKILL(0x9344, new RequestUseShortSkill()),
 	/** запрос на юз серийного скила, версия 172 */
 	REQUEST_USE_QUEUE_SKILL(0xCED8, new RequestUseQueueSkill()),
 	/** запрос на юз рендж скила, версия 172 */

@@ -6,7 +6,7 @@ import tera.gameserver.model.Character;
 import tera.gameserver.model.items.ItemInstance;
 
 /**
- * Интерфейс для реализации инвенторя.
+ * Interface to implement Inventor.
  *
  * @author Ronn Mod Evestu
  * @created 11.04.2012
