@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
-	<!-- минимальный уровень прав для входа на сервер (0) -->
+	<!-- a minimum level of rights to log on to the server ( 0 ) -->
 	<set name="ACCOUNT_MIN_ACCESS_LEVEL" value="0" />
 	
-	<!-- рейт базовых рейтов при проплаченном аккаунте (2.0) -->
+	<!-- Reith Reith base at proplachennyh account (2.0) -->
 	<set name="ACCOUNT_PREMIUM_EXP_RATE" value="2.0" />
-	<!-- рейт базовых рейтов при проплаченном аккаунте (2.0) -->
+	<!--Reith Reith base at proplachennyh account (2.0) -->
 	<set name="ACCOUNT_PREMIUM_MONEY_RATE" value="2.0" />
-	<!-- рейт базовых рейтов при проплаченном аккаунте (2.0) -->
+	<!-- Reith Reith base at proplachennyh account (2.0) -->
 	<set name="ACCOUNT_PREMIUM_DROP_RATE" value="2.0" />
 
 
@@ -18,15 +18,15 @@
 	<!-- Premium Hero Rate (2.0) -->
 	<set name="ACCOUNT_PREMIUM_HERO_RATE" value="2.0" />
 	
-	<!-- включить ли авто создание аккаунта при входе (true) -->
+	<!-- whether to include the auto account creation at the entrance(true) -->
 	<set name="ACCOUNT_AUTO_CREATE" value="true" />
-	<!-- включить возможность входить на сервер только проплаченым аккаунтам (false) -->
+	<!-- include the ability to log on to the server only payed accounts (false) -->
 	<set name="ACCOUNT_ONLY_PAID" value="false" />
 	
-	<!-- имеют ли проплаченные аккаунты бонуск экспы (true) -->
+	<!-- whether proplachennye accounts bonusk exp (true) -->
 	<set name="ACCOUNT_PREMIUM_EXP" value="true" />
-	<!-- имеют ли проплаченные аккаунты бонус денег (true) -->
+	<!-- whether proplachennye accounts bonus money (true) -->
 	<set name="ACCOUNT_PREMIUM_MONEY" value="true" />
-	<!-- имеют ли проплаченные аккаунты бонус дропа (true) -->
+	<!-- whether proplachennye accounts bonus loot (true) -->
 	<set name="ACCOUNT_PREMIUM_DROP" value="true" />
 </list>
