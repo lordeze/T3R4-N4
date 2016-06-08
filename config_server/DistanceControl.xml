@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
-	<!-- включено ли дистанционное управление -->
+	<!-- Whether included remote control -->
 	<set name="DIST_CONTROL_ENABLED" value="true" />
 	
-	<!-- порт для подключения к управлению -->
+	<!-- port for connecting to the management -->
 	<set name="DIST_CONTROL_PORT" value="2101" />
 	
-	<!--  интервла проверки коннекта клиента, чем больше, тем меньше нагрузки -->
+	<!--  intervla comprobar una conexión del cliente , más , menos estrés -->
 	<set name="DIST_CONTROL_CLIENT_INTERVAL" value="1000" />
 	
-	<!-- логи для авторизации клиента управления -->
+	<!-- los registros de cliente de gestión de la autorización -->
 	<set name="DIST_CONTROL_LOGIN" value="root" />
-	<!-- спароль для авторизации клиента управления -->
+	<!-- cliente de gestión de la autorización sparol  -->
 	<set name="DIST_CONTROL_PASSWORD" value="df1sdf7d852cs" />
 </list>    
