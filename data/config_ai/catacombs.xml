@@ -284,26 +284,26 @@
 			
 			<think state="IN_RAGE" action="DefaultRageAction" />
 			
-			<!-- определяем генератор действий для режим убегания от врагов -->
+			<!-- We define the action generator to escape from the enemy regime -->
 			<think state="IN_RUN_AWAY" action="DefaultRunAwayAction" >
-				<!-- определяем через какое время после последняй атаки, НПC будет считать что от него отстали -->
+				<!-- define how long after poslednyay attack NPC will assume that behind him -->
 				<set name="lastAttackedTime" val="60000" />
-				<!-- определяем расстояние, на котором агрессор будет удаляться из списка агрессоров -->
+				<!-- We determine the distance at which the aggressor will be removed from the list of aggressors -->
 				<set name="battleMaxRange" val="700" />
 			</think>
 		</thinks>
 	</config>
 	
 	<config name="HealerToCatacomb" >
-		<!-- определяем скороть мозгов для различных стадий АИ -->
+		<!-- We define skorot brains for different stages of the AI -->
 		<intervals default="1000" >
-			<!-- определяем скорость во время ожидания -->
+			<!-- determine the speed during standby -->
 			<interval state="WAIT" val="1000" />
-			<!-- определяем скорость во время потрулирования -->
+			<!-- determine the speed during potrulirovaniya -->
 			<interval state="PATROL" val="4000" />
-			<!-- определяем скорость во время возвращения домой -->
+			<!-- We determine the speed at the time of returning home -->
 			<interval state="RETURN_TO_HOME" val="1000" />
-			<!-- определяем скорость во время боя -->
+			<!-- determine the speed of the battle -->
 			<interval state="IN_BATTLE" val="500" />
 			<!-- определяем скорость во время ярости -->
 			<interval state="IN_RAGE" val="250" />
