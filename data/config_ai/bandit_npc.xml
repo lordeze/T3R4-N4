@@ -329,16 +329,16 @@
 
 
 <!-- 
-/** в ожидании чего-то */
+/** waiting for something*/
 	WAIT(null, null),
-	/** в патрулировании местности */
+	/** patrolling the area */
 	PATROL(null, null),
-	/** в возвращении на точку респа */
+	/** in returning to spawn point */
 	RETURN_TO_HOME(null, null),
-	/** в бою */
+	/** in battle */
 	IN_BATTLE(null, null),
-	/** в ярости */
+	/** furious */
 	IN_RAGE(null, null),
-	/** убегает от противника */
+	/** running away from the enemy */
 	IN_RUN_AWAY(null, null);
 	-->
