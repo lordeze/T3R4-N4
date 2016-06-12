@@ -2,127 +2,127 @@
 <list>
 	<!-- когда моб первый раз фокусится на цели -->
 	<package name="DefaultNoticeMessages" >
-		<msg text="Не подходи!" />
-		<msg text="Отвали я АФК!" />
-		<msg text="Не трогай меня!" />
-		<msg text="Зачем ты такое большое и страшное?" />
-		<msg text="Не не не не не! Отвали я тя не потяну!" />
-		<msg text="Что ты хочешь от меня!?" />
-		<msg text="Ты мне не нравишься..." />
-		<msg text="Ну с таким оружием и я кого хочешь порву..." />
-		<msg text="Занято!" />
-		<msg text="*обосрался*" />
+		<msg text="No vengas!" />
+		<msg text="La mierda, yo AFK!" />
+		<msg text="No me toques!" />
+		<msg text="¿Por qué eres tan grande y terrible?" />
+		<msg text="No no no no no! Fuck Off, no te tire!" />
+		<msg text="¿Qué quieres de mí!?" />
+		<msg text="No me gusta ..." />
+		<msg text="Pues bien, con este tipo de armas, y quiero romper a alguien ..." />
+		<msg text="Mucha gente!" />
+		<msg text="* Mierda *" />
 
-		<msg text="Зачем ты такое маленькое и слабое?" />
-		<msg text="Кулак видишь? Нет? Ну на поближе посмотри!" />
-		<msg text="Да я тебя щас на хвост намотаю!" />
-		<msg text="Ну-ка ну-ка, кто это тут у нас?" />
-		<msg text="Леща поймаешь?" />
-		<msg text="Что-то я тебя раньше тут не видел..." />
-		<msg text="Семки есть? А 5 рублей? Есть? А позвонить?" />
-		<msg text="Здесь нубам нельзя! Пшел вон отсюда!" />
-		<msg text="Интересно, какой у тебя дроп будет?" />
+		<msg text="¿Por qué estás tan pequeño y débil?" />
+		<msg text=" vez el Puño ves? No? Pues bien, echa un vistazo más de cerca!" />
+		<msg text="Sí, Te amo en este momento en la herida de la cola!" />
+		<msg text="Vamos, vamos, estás aquí con nosotros?" />
+		<msg text="Besugo tomar?" />
+		<msg text="Algo que nunca visto antes por aquí ... " />
+		<msg text="Semka allí? A 5 rublos? Hay? Una llamada?" />
+		<msg text="No se puede nubam! Pshel de aquí!" />
+		<msg text="Me pregunto lo que va a caer?" />
 	</package>
 	
 	<!-- когда моб разворачивается за целью для фокуса -->
 	<package name="DefaultUpdateNoticeMessages" >
-		<msg text="Ты пытаешься меня обмануть!?" />
-		<msg text="Я тебе не дам меня испугать!" />
-		<msg text="Ты думаешь я дурак!?" />
-		<msg text="Ты куда собрался!?" />
-		<msg text="Ты думаешь, я с тобой в шутки играю!?" />
-		<msg text="Твоя попытка убить меня, ничтожна!" />
-		<msg text="Зачем тебе это? Тебе меня не убить" />
-		<msg text="Сейчас ты поплатишься за это!" />
-		<msg text="Я давно тебя ждал!" />
-		<msg text="И какой же ты на вкус?" />
-		<msg text="Я соберу всех, и мы тебя уничтожим." />
-		<msg text="Сегодня ты станишь моим завтраком." />
-		<msg text="Вы ничтожественные создания..." />
-		<msg text="За что... " />
-		<msg text="Отведай силу моего гнева!" />
-		<msg text="Вздумал в спину бить? Как не хорошо..." />
-		<msg text="По твоему я слабый!?" />
-		<msg text="Нет...Я не хочу умирать..." />
-		<msg text="Что-то ты меня настораживаешь..." />
-		<msg text="Мы еще с тобой увидимся, я не последний..." />
-		<msg text="И это все на что ты способен!??" />
+		<msg text="Usted está tratando de engañarme!?" />
+		<msg text="No te voy a dar me asustas!" />
+		<msg text="¿Crees que soy un tonto!?" />
+		<msg text="¿A dónde vas!?" />
+		<msg text="¿Crees que estoy con ustedes jugando una broma!?" />
+		<msg text="Su intento de matarme, es insignificante!" />
+		<msg text="¿Por qué lo necesita? Usted no me matas" />
+		<msg text="Ahora usted tendrá que pagar por ello!" />
+		<msg text="He estado esperando por ti!" />
+		<msg text="Y ¿qué es lo que el sabor?" />
+		<msg text="Me reuniré a todos, y los destruiremos." />
+		<msg text="Hoy en día usted será mi desayuno." />
+		<msg text="Usted nichtozhestvennye crear ..." />
+		<msg text="Lo que ... " />
+		<msg text="Degustar la fuerza de mi ira!" />
+		<msg text="Se atreve a golpear por la espalda? No es bueno ..." />
+		<msg text="En su I desmayar!?" />
+		<msg text="No ... no quiero morir ..." />
+		<msg text="Algo que me preocupante ..." />
+		<msg text="Nos vemos con usted, no voy a durar ..." />
+		<msg text="Y es todo lo que puede hacer! ??" />
 	</package>
 	
 	<!-- когда моб бродит -->
 	<package name="DefaultWalkMessages" >
-		<msg text="Как-то скучно здесь у нас..." />
-		<msg text="Куда все подевались?" />
-		<msg text="Какая хорошая погодка!" />
-		<msg text="Мне кажется, или меня все игнорируют?" />
+		<msg text="Una vez que se aburren aquí ..." />
+		<msg text="¿Dónde están todos ido?" />
+		<msg text="Lo bueno es el clima!" />
+		<msg text="Me parece a mí, o me ignoran todo?" />
 	</package>
 	
 	<package name="DefaultSwitchTargetMessages" >
-		<msg text="Сейчас ты у меня получишь!" />
-		<msg text="Иди комне!" />
-		<msg text="Как ты посмел попасться мне на глаза!?" />
-		<msg text="Пришел твой черед!" />
+		<msg text="Ahora usted me consigue!" />
+		<msg text="Ven a mí!" />
+		<msg text="¿Cómo se atreve a venir a través de mis ojos!?" />
+		<msg text="Vine su turno!" />
 	</package>
 	
 	<package name="DefaultJumpSideMessages" >
-		<msg text="Не попадешь!" />
+		<msg text="Usted no va a conseguir!" />
 	</package>
 	
 	<package name="DefaultJumpBehindMessages" >
-		<msg text="Отходим!" />
+		<msg text="Tire hacia atrás!" />
 	</package>
 	
 	<package name="DefaultShortAttackMessages" >
-		<msg text="Сейчас ты получишь!" />
+		<msg text="Ahora usted consigue!" />
 	</package>
 	
 	<package name="DefaultLongAttackMessages" >
-		<msg text="Получай!" />
+		<msg text="Toma eso!" />
 	</package>
 	
 	<package name="DefaultRunAwayMessages" >
-		<msg text="Сваливаем, посоны, они с читами!" />
-		<msg text="Да ну тебя нафиг!" />
-		<msg text="Опа, я ж забыл дома плиту вырубить." />
+		<msg text="Pasar la pelota, posony, engañan!" />
+		<msg text="Oh que nafig!" />
+		<msg text="Vaya, se me olvidó la placa Bueno para cortar la casa." />
 		<msg text="SOS! SOS!" />
-		<msg text="Кто-нибудь, позвоните в Гринпис!!" />
-		<msg text="Милиция!" />
-		<msg text="Мой дроп! Не отдам!!" />
-		<msg text="Ну-ка догони!" />
-		<msg text="Ой, что-то у меня живот разболелся." />
-		<msg text="Что-то у меня голова разболелась." />
-		<msg text="Да я щас апнусь и навешаю тебе!" />
-		<msg text="Хилу мне! ХИЛУ!!" />
-		<msg text="Ну я так не играю." />
-		<msg text="В этот раз точно не догонят." />
-		<msg text="Я щас, быстро, покурить куплю за углом и вернусь." />
-		<msg text="Братва, выручайте!" />
-		<msg text="Да ты ж меня щас убьешь нафиг!" />
-		<msg text="А давай лучше поиграем в догонялки." />
-		<msg text="Да ты больной!" />
-		<msg text="Я твой дом труба шатал!!" />
-		<msg text="Ветеринара мне! Срочно!" />
-		<msg text="Тьфу ты! Мерзкий какой попался." />
-		<msg text="Я устал. Я ухожу." />
-		<msg text="Пробежимся?" />
-		<msg text="Слуш, отвали, а?" />
-		<msg text="Голды тебе? Накася выкуси!" />
-		<msg text="Всё! Надоело! Завтра увольняюсь!" />
-		<msg text="Я на это не подписывался." />
-		<msg text="Ох ё!" />
-		<msg text="Не подскажете, где здесь можно найти стаматолога?" />
-		<msg text="Как же эти гопники задолбали уже." />
-		<msg text="Да нафиг ты мне сдался?" />
-		<msg text="Да ты чо? Больно же!" />
-		<msg text="Да лучше я пойду травки пожую." />
-		<msg text="*обосрался*" />
-		<msg text="Они сказали: познакомишься с новыми людьми, увидишь свет. Ага. ТОТ свет!" />
-		<msg text="Экспы хочешь? А у меня дома семья, дети! Ты о них подумал?" />
-		<msg text="Нас не догонят! Нас не догонят!" />
-		<msg text="Не хочу умирать девственником!" />
-		<msg text="Неееет!" />
+		<msg text="Alguien llame a Greenpeace !!" />
+		<msg text="Policía!" />
+		<msg text="Mi gota! No me importa !!" />
+		<msg text="Ven a ponerse al día!" />
+		<msg text="Oh, algo que tengo un dolor de estómago." />
+		<msg text="Algo que tengo un dolor de cabeza." />
+		<msg text="Sí, ahora mismo apnus a visitarte!" />
+		<msg text="Hilu mí! Hilu!!" />
+		<msg text="Bueno, yo no juego." />
+		<msg text="Esta vez no se captura exactamente hacia arriba." />
+		<msg text="Estoy en este momento, de forma rápida, compro un humo vuelta de la esquina y la espalda." />
+		<msg text="Compañeros, ayudan a cabo!" />
+		<msg text="Si usted está en este momento, Bueno, yo voy a matar nafig!" />
+		<msg text="Y dar un mejor juego para ponerse al día." />
+		<msg text="Estás enfermo!" />
+		<msg text="Soy tu chimenea en casa Shatal !!" />
+		<msg text=" Un Veterinario ! Urgente!" />
+		<msg text="Maldito seas! Vile tiene algunos." />
+		<msg text="Estoy cansado. me marcho." />
+		<msg text="Se ejecutará?" />
+		<msg text="Hey, de marcha atrás, ¿eh?" />
+		<msg text="Gorda usted? Nakosya vykusi!" />
+		<msg text="Todo! Cansado! Hoy se renuncia!" />
+		<msg text="Yo no tuve que firmar." />
+		<msg text="Oh yo!" />
+		<msg text="No me diga donde se puede encontrar a un dentista?" />
+		<msg text="¿Cómo estos Gopnik zadolbali ya." />
+		<msg text="Sí nafig que me diste?" />
+		<msg text="Sí se Cho? Eso duele!" />
+		<msg text="Sí, Será mejor que vaya hierba pozhuyu." />
+		<msg text="* Mierda *" />
+		<msg text="Ellos dijeron, para conocer gente nueva, ve a la luz. Sí. Esa luz!" />
+		<msg text="Expo quiere? Y tengo una casa de familia, los niños! ¿Ha pensado en ellos?" />
+		<msg text="No vamos a ponerse al día! No vamos a ponerse al día!" />
+		<msg text="No quiero morir virgen!" />
+		<msg text="Noooo!" />
 		<msg text="МАМА!" />
-		<msg text="А говорили, что тут игроки лагают. Опять наврали." />
-		<msg text="Не не не не!" />
+		<msg text="Ellos dijeron que los jugadores quedan aquí. Una vez más mintieron." />
+		<msg text="No no no no!" />
 	</package>
 </list>
