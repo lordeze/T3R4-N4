@@ -2,273 +2,273 @@
 <list>
 	<!-- брождение суммона танка -->
 	<package name="thrall_of_protection_walk" >
-		<msg text="Что-то мне заняться нечем..." />
-		<msg text="Как-то мне это наскучило..." />
-		<msg text="Пам парам пам пам..." />
-		<msg text="Где бы взять пушку получше...?" />
-		<msg text="Ой как же все надоело..." />
-		<msg text="Долго ли мне здесь еще торчать..." />
-		<msg text="Хозяин какой-то скучный..." />
-		<msg text="Чего мы ждем?" />
-		<msg text="Мы идем или нет?..." />
+		<msg text="Algo no hago nada.." />
+		<msg text="De alguna manera me aburrí ..." />
+		<msg text="Ram pares de almacenamiento de memoria ..." />
+		<msg text="Dónde llevar el arma mejor ...?" />
+		<msg text="Oh , qué cansado de todo ..." />
+		<msg text="¿Cuánto tiempo todavía tengo que pasar por aquí ..." />
+		<msg text="El propietario es un aburrido ..." />
+		<msg text="¿Qué esperamos ?" />
+		<msg text="Vamos o no ? ..." />
 	</package>
 
 	<!-- хотьба суммона танка за хозяином -->
 	<package name="thrall_of_protection_follow" >
-		<msg text="Надеюсь мы идем на охоту..." />
-		<msg text="Эй подожди меня!" />
-		<msg text="Куда ты все летишь!?" />
-		<msg text="Куда ты торопишься?" />
-		<msg text="Подожди меня!" />
-		<msg text="Наконец-то мы сдвинулись с места" />
-		<msg text="Куда мы идем?" />
-		<msg text="Этот бесконечный бег утомляет меня!" />
+		<msg text="Espero que vayamos a la caza ..." />
+		<msg text="Hey, espera para mí !" />
+		<msg text="¿Dónde están todos vuelan ! ?" />
+		<msg text="¿Dónde estás en un apuro ?" />
+		<msg text="Espérame !" />
+		<msg text="Por último , hemos movido" />
+		<msg text="¿A dónde vamos ?" />
+		<msg text="Este sinfín de Correr y corre me !" />
 	</package>
 
 	<!-- возвращение сумона танка к хозяину -->
 	<package name="thrall_of_protection_return" >
-		<msg text="Что-то я потерял хозяина" />
-		<msg text="Что-то я отбился от хозяина" />
-		<msg text="Надо тащиться к хозяину" />
-		<msg text="Я пошел в общем-то" />
-		<msg text="Бегом-бегом" />
+		<msg text="Algo que había perdido el maestro" />
+		<msg text="me desvié del propietario" />
+		<msg text="Debo ser arrastrado al propietario" />
+		<msg text="Fui a lo general" />
+		<msg text="De gestión de gestión" />
 	</package>
 
 	<!-- суммон танк что-то бафает -->
 	<package name="thrall_of_protection_buff" >
-		<msg text="Баф баф баф!" />
-		<msg text="А вот и баф!" />
-		<msg text="Баф!" />
-		<msg text="Так лучше?" />
-		<msg text="Надеюсь, это поможет нам победить!" />
+		<msg text="Buff buff buff !" />
+		<msg text="Y aquí está el aficionado !" />
+		<msg text="Buff !" />
+		<msg text="¿Es eso mejor?" />
+		<msg text="Esperemos que esto nos ayude a ganar !" />
 	</package>
 
 	<!-- суммон танк что-то дебафает -->
 	<package name="thrall_of_protection_debuff" >
-		<msg text="На тебе дебаф!" />
-		<msg text="И тебе дебаф!" />
-		<msg text="А вот вам и дебаф!" />
-		<msg text="Ха-ха, ты слаб!" />
-		<msg text="Проклинаю тебя!" />
+		<msg text="En la desventaja de que !" />
+		<msg text="Y que tiene efecto adverso !" />
+		<msg text="Y aquí es una desventaja !" />
+		<msg text="ja ja , usted es débil !" />
+		<msg text="Yo te maldigo !" />
 	</package>
 
 	<!-- суммон танк что-то блочит -->
 	<package name="thrall_of_protection_shield" >
-		<msg text="Мой щит не пробить!" />
-		<msg text="Обломчик!?" />
-		<msg text="Нежданчик!?" />
-		<msg text="Не пробьешь!" />
-		<msg text="Броня моя крепка!" />
-		<msg text="Да что ты можешь?!" />
-		<msg text="И это все, что ты можешь?!" />
-		<msg text="Мой щит оградит меня от бед!" />
+		<msg text="Mi escudo no se rompe y nada pasa través de el!" />
+		<msg text="Oblomchik ! ?" />
+		<msg text="Nezhdanchik ! ?" />
+		<msg text="No rompa !" />
+		<msg text="La armadura es mi fuerte!" />
+		<msg text="¿Qué puede hacer usted ? !" />
+		<msg text="Y todo esto , lo que se puede? !" />
+		<msg text="Mi escudo me protegerá de todo mal !" />
 	</package>
 
 	<!-- суммон танк что-то атакует -->
 	<package name="thrall_of_protection_attack" >
 		<msg text="Получай!" />
-		<msg text="Сейчас я тебе покажу где раки зимуют!" />
-		<msg text="Отведай силушки богатырской!" />
-		<msg text="Да срозит тебя мой удар!" />
-		<msg text="Вертуха ЧАКАНОРИСА!" />
-		<msg text="Сейчас я тебя сломаю!" />
-		<msg text="Получай мой пряник!" />
-		<msg text="Да ты у меня сейчас как огребешь!" />
-		<msg text="Спасайся пока можешь!" />
-		<msg text="Умри!" />
-		<msg text="Я покажу тебе истинную силу!" />
-		<msg text="От меня не уйдешь!" />
-		<msg text="Ты не спрячешься!" />
-		<msg text="Отстань от хозяина!" />
+		<msg text="Ahora te voy a mostrar lo que es lo que!" />
+		<msg text="Sabor Silushka heroica !" />
+		<msg text="Sí se srozit mi golpe !" />
+		<msg text="Vertuhaya CHAKANORISA !" />
+		<msg text="Ahora voy a romper !" />
+		<msg text="Obtener mi zanahoria!" />
+		<msg text="Sí , me tienes ahora cómo ogrebesh !" />
+		<msg text="Ahorrarse mientras puedas!" />
+		<msg text="Muere !" />
+		<msg text="Yo te mostraré el verdadero poder !" />
+		<msg text="De mí no se deje !" />
+		<msg text="No se puede ocultar !" />
+		<msg text="Alejarse del anfitrión!" />
 	</package>
 	
 	<!-- брождение суммона сорка -->
 	<package name="thrall_of_vengeance_walk" >
-		<msg text="Что-то мне заняться нечем..." />
-		<msg text="Как-то мне это наскучило..." />
-		<msg text="Пам парам пам пам..." />
-		<msg text="Где бы взять пушку получше...?" />
-		<msg text="Ой как же все надоело..." />
-		<msg text="Долго ли мне здесь еще торчать..." />
-		<msg text="Хозяин какой-то скучный..." />
-		<msg text="Чего мы ждем?" />
-		<msg text="Мы идем или нет?..." />
+		<msg text="Algo que yo no puedo hacer. nada ..." />
+		<msg text="De alguna manera me aburrí ..." />
+		<msg text="Ram pares de almacenamiento de memoria ..." />
+		<msg text="Dónde llevar el arma es mejor ... ?" />
+		<msg text="Oh , qué cansado de todo ..." />
+		<msg text="¿Cuánto tiempo todavía tengo que pasar por aquí ..." />
+		<msg text="El propietario es un aburrido ..." />
+		<msg text="¿Qué esperamos ?" />
+		<msg text="Vamos o no ? ..." />
 	</package>
 
 	<!-- хотьба суммона танка за сорка -->
 	<package name="thrall_of_vengeance_follow" >
-		<msg text="Надеюсь мы идем на охоту..." />
-		<msg text="Эй подожди меня!" />
-		<msg text="Куда ты все летишь!?" />
-		<msg text="Куда ты торопишься?" />
-		<msg text="Подожди меня!" />
-		<msg text="Наконец-то мы сдвинулись с места" />
-		<msg text="Куда мы идем?" />
-		<msg text="Этот бесконечный бег утомляет меня!" />
+		<msg text="Espero que vayamos a la caza ..." />
+		<msg text="Hey, espera para mí !" />
+		<msg text="¿Dónde están todos vuelan ! ?" />
+		<msg text="¿Dónde estás en un apuro ?" />
+		<msg text="Espérame !" />
+		<msg text="Por último , hemos movido" />
+		<msg text="¿A dónde vamos ?" />
+		<msg text="Este sinfín de Correr y corre me !" />
 	</package>
 
 	<!-- возвращение сумона сорка к владельцу -->
 	<package name="thrall_of_vengeance_return" >
-		<msg text="Что-то я потерял хозяина" />
-		<msg text="Что-то я отбился от хозяина" />
-		<msg text="Надо тащиться к хозяину" />
-		<msg text="Я пошел в общем-то" />
-		<msg text="Бегом-бегом" />
+		<msg text="Algo que había perdido el maestro" />
+		<msg text="me desvié del propietario" />
+		<msg text="Debo ser arrastrado al propietario" />
+		<msg text="Fui a lo general" />
+		<msg text="De gestión de gestión" />
 	</package>
 
 	<!-- суммон сорк что-то бафает -->
 	<package name="thrall_of_vengeance_buff" >
-		<msg text="Баф баф баф!" />
-		<msg text="А вот и баф!" />
-		<msg text="Баф!" />
-		<msg text="Так лучше?" />
-		<msg text="Надеюсь, это поможет нам победить!" />
+		<msg text="Buff buff buff !" />
+		<msg text="Y aquí está el aficionado !" />
+		<msg text="Buff !" />
+		<msg text="¿Es eso mejor?" />
+		<msg text="Esperamos que esto nos ayude a ganar !" />
 	</package>
 
 	<!-- суммон сорк что-то атакует -->
 	<package name="thrall_of_vengeance_attack" >
-		<msg text="Получай!" />
-		<msg text="Сейчас я тебе покажу где раки зимуют!" />
-		<msg text="Отведай силушки богатырской!" />
-		<msg text="Да срозит тебя мой удар!" />
-		<msg text="Вертуха ЧАКАНОРИСА!" />
-		<msg text="Сейчас я тебя сломаю!" />
-		<msg text="Получай мой пряник!" />
-		<msg text="Да ты у меня сейчас как огребешь!" />
-		<msg text="Спасайся пока можешь!" />
-		<msg text="Умри!" />
-		<msg text="Я покажу тебе истинную силу!" />
-		<msg text="От меня не уйдешь!" />
-		<msg text="Ты не спрячешься!" />
-		<msg text="Отстань от хозяина!" />
+		<msg text="Toma eso !" />
+		<msg text="Ahora te voy a mostrar lo que es lo que!" />
+		<msg text="Sabor Silushka heroica !" />
+		<msg text="Sí se srozit mi golpe !" />
+		<msg text="Vertuhaya CHAKANORISA !" />
+		<msg text="Ahora voy a romper !" />
+		<msg text="Obtener mi zanahoria!" />
+		<msg text="Sí , me tienes ahora cómo ogrebesh !" />
+		<msg text="Ahorrarse mientras puedas!" />
+		<msg text="Muere !" />
+		<msg text="Yo te mostraré el verdadero poder !" />
+		<msg text="De mí no se deje !" />
+		<msg text="No se puede ocultar " />
+		<msg text="Alejarse del anfitrión!" />
 	</package>
 	
 	<!-- брождение суммона слаера -->
 	<package name="thrall_of_wrath_walk" >
-		<msg text="Что-то мне заняться нечем..." />
-		<msg text="Как-то мне это наскучило..." />
-		<msg text="Пам парам пам пам..." />
-		<msg text="Где бы взять пушку получше...?" />
-		<msg text="Ой как же все надоело..." />
-		<msg text="Долго ли мне здесь еще торчать..." />
-		<msg text="Хозяин какой-то скучный..." />
-		<msg text="Чего мы ждем?" />
-		<msg text="Мы идем или нет?..." />
+		<msg text="Algo que yo no puedo hacer. nada ..." />
+		<msg text="De alguna manera me aburrí ..." />
+		<msg text="Ram pares de almacenamiento de memoria ..." />
+		<msg text="Dónde llevar el arma es mejor ... ?" />
+		<msg text="Oh lo aburrido ..." />
+		<msg text="¿Cuánto tiempo todavía tengo que pasar por aquí ..." />
+		<msg text="El propietario de un aburrido ..." />
+		<msg text="¿Qué esperamos ?" />
+		<msg text="Vamos o no ? ..." />
 	</package>
 
 	<!-- хотьба суммона слаера за хозяином -->
 	<package name="thrall_of_wrath_follow" >
-		<msg text="Надеюсь мы идем на охоту..." />
-		<msg text="Эй подожди меня!" />
-		<msg text="Куда ты все летишь!?" />
-		<msg text="Куда ты торопишься?" />
-		<msg text="Подожди меня!" />
-		<msg text="Наконец-то мы сдвинулись с места" />
-		<msg text="Куда мы идем?" />
-		<msg text="Этот бесконечный бег утомляет меня!" />
+		<msg text="Espero que vayamos a la caza ..." />
+		<msg text="Hey, espera para mí !" />
+		<msg text="¿Dónde están todos vuelan ! ?" />
+		<msg text="¿Dónde estás en un apuro ?" />
+		<msg text="Espérame !" />
+		<msg text="Por último , hemos movido" />
+		<msg text="¿A dónde vamos ?" />
+		<msg text="Este sinfín de neumáticos Correr me !" />
 	</package>
 	
 	<!-- возвращение сумона слаера к владельцу -->
 	<package name="thrall_of_wrath_return" >
-		<msg text="Что-то я потерял хозяина" />
-		<msg text="Что-то я отбился от хозяина" />
-		<msg text="Надо тащиться к хозяину" />
-		<msg text="Я пошел в общем-то" />
-		<msg text="Бегом-бегом" />
+		<msg text="Algo que había perdido el maestro" />
+		<msg text="Algo me desvié del propietario" />
+		<msg text="Debo ser arrastrado al propietario" />
+		<msg text="Fui a lo general" />
+		<msg text="De gestión de gestión" />
 	</package>
 	
 	<!-- суммон слаер что-то бафает -->
 	<package name="thrall_of_wrath_buff" >
-		<msg text="Баф!" />
+		<msg text="Buff !" />
 	</package>
 	
 	<!-- суммон слаер что-то атакует -->
 	<package name="thrall_of_wrath_attack" >
-		<msg text="Получай!" />
-		<msg text="Сейчас я тебе покажу где раки зимуют!" />
-		<msg text="Отведай силушки богатырской!" />
-		<msg text="Да срозит тебя мой удар!" />
-		<msg text="Вертуха ЧАКАНОРИСА!" />
-		<msg text="Сейчас я тебя сломаю!" />
-		<msg text="Получай мой пряник!" />
-		<msg text="Да ты у меня сейчас как огребешь!" />
-		<msg text="Спасайся пока можешь!" />
-		<msg text="Умри!" />
-		<msg text="Я покажу тебе истинную силу!" />
-		<msg text="От меня не уйдешь!" />
-		<msg text="Ты не спрячешься!" />
-		<msg text="Отстань от хозяина!" />
+		<msg text="Toma eso !" />
+		<msg text="Ahora te voy a mostrar lo que es lo que!" />
+		<msg text="Sabor Silushka heroica !" />
+		<msg text="Sí se srozit mi golpe !" />
+		<msg text="Vertuhaya CHAKANORISA !" />
+		<msg text="Ahora voy a romper !" />
+		<msg text="Obtener mi zanahoria!" />
+		<msg text="Sí , me tienes ahora cómo ogrebesh ! " />
+		<msg text="Ahorrarse mientras puedas!" />
+		<msg text="Die !" />
+		<msg text="Yo te mostraré el verdadero poder !" />
+		<msg text="De mí no se deje !" />
+		<msg text="No se puede ocultar !" />
+		<msg text="Alejarse del anfitrión!" />
 	</package>
 	
 	<!-- суммон слаер уворачивается -->
 	<package name="thrall_of_wrath_evasion" >
-		<msg text="Тебе не попасть в меня!" />
-		<msg text="Уворот!" />
-		<msg text="Я ниндзя!" />
-		<msg text="опа!" />
-		<msg text="хоп!" />
+		<msg text="No me di cuenta!" />
+		<msg text="De Dodge !" />
+		<msg text="Soy un ninja !" />
+		<msg text="opa !" />
+		<msg text="Hop !" />
 	</package>
 	
 	<!-- брождение суммона хилера -->
 	<package name="thrall_of_life_walk" >
-		<msg text="Скажешь, как понадобится тебя подлатать ;)" />
-		<msg text="Не парься в бою, я всегда тебя подлечу!" />
-		<msg text="К исцелению друзей ГОТОВ!" />
-		<msg text="Кого бы полечить!?" />
-		<msg text="Залечить бы кого-нибудь..." />
-		<msg text="Что-то мой посох устал бездействовать..." />
-		<msg text="Что-то мне заняться нечем..." />
-		<msg text="Как-то мне это наскучило..." />
-		<msg text="Пам парам пам пам..." />
-		<msg text="Ой как же все надоело..." />
-		<msg text="Долго ли мне здесь еще торчать..." />
-		<msg text="Хозяин какой-то скучный..." />
-		<msg text="Чего мы ждем?" />
-		<msg text="Мы идем или нет?..." />
+		<msg text="Dígales cómo se va a necesitar para remendar ; )" />
+		<msg text="No se preocupe en una pelea , siempre que pueda recibir tratamiento médico !" />
+		<msg text="A sanar amigos LISTO !" />
+		<msg text="¿Quién iba a tratar ! ?" />
+		<msg text="para sanar a alguien ..." />
+		<msg text="Algo mi personal inactivo cansado ..." />
+		<msg text="Algo no hago nada ....." />
+		<msg text="De alguna manera me aburrí ..." />
+		<msg text="Ram pares de almacenamiento de memoria ..." />
+		<msg text="Oh lo aburrido ..." />
+		<msg text="¿Cuánto tiempo todavía tengo que pasar por aquí ..." />
+		<msg text="El propietario es un aburrido..." />
+		<msg text="¿Qué esperamos ?" />
+		<msg text="Vamos o no ? ..." />
 	</package>
 
 	<!-- хотьба суммона хила за хозяином -->
 	<package name="thrall_of_life_follow" >
-		<msg text="Куда идем мы с пятачком, большой большой секрет!" />
-		<msg text="Наконец-то мы идем куда-то!" />
-		<msg text="Пам парам парам" />
+		<msg text="¿A dónde vamos con el hocico , gran gran secreto !" />
+		<msg text="Por último , vamos a un lugar !" />
+		<msg text="Pam parejas parejas" />
 	</package>
 	
 	<!-- возвращение сумона хила к владельцу -->
 	<package name="thrall_of_life_return" >
-		<msg text="Как же он без меня то собрался вовать!?" />
-		<msg text="Надо поторопится к хозяину..." />
-		<msg text="Я пошел в общем-то..." />
-		<msg text="Бегом-бегом" />
+		<msg text="¿Cómo se va sin mí Vova !?" />
+		<msg text="Hay que darse prisa para el propietario ..." />
+		<msg text="Fui a lo general .." />
+		<msg text="De gestión de gestión" />
 	</package>
 	
 	<!-- суммон слаер что-то бафает -->
 	<package name="thrall_of_life_buff" >
-		<msg text="А вот и баф!" />
-		<msg text="Да получем усиление!" />
-		<msg text="Усилить всех!" />
-		<msg text="УСЕЛЕНИЕ!" />
+		<msg text="Y aquí está el aficionado !" />
+		<msg text="Sí estresarse !" />
+		<msg text="Fortalecer todos!" />
+		<msg text="USELENIE !" />
 	</package>
 	
 	<!-- суммон хил хилит -->
 	<package name="thrall_of_life_heal" >
-		<msg text="Исцеление!" />
-		<msg text="Мастер лечения!" />
-		<msg text="Сила исцеления!" />
-		<msg text="Да исцелит!" />
+		<msg text="La curación !" />
+		<msg text="tratamientos de dominar!" />
+		<msg text="El poder de la curación !" />
+		<msg text="Sí curar !" />
 	</package>
 	
 	<!-- суммон хил что-то атакует -->
 	<package name="thrall_of_life_attack" >
-		<msg text="Лови мою плюшку!" />
-		<msg text="Прими подарочек!" />
-		<msg text="Лучи добра!" />
+		<msg text="Recuperar el bollo !" />
+		<msg text="Tome un presente !" />
+		<msg text="Los rayos de bondad !" />
 	</package>
 	
 	<!-- суммон хил отскакивает -->
 	<package name="thrall_of_life_evasion" >
-		<msg text="Тебе не достать меня!" />
-		<msg text="Отскок!" />
-		<msg text="Я бэтмен!" />
+		<msg text="No se puede conseguir de mí !" />
+		<msg text="Rebote !" />
+		<msg text="Soy Batman !" />
 	</package>
 </list>
